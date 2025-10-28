@@ -18,8 +18,8 @@ const Banner = () => {
                   everyday life simpler, smarter, and more exciting.
                 </p>
                 <p className="text-[#627382]">
-                  Our goal is to turn your ideas into digital experiences that
-                  truly make an impact.
+                  {/* Our goal is to turn your ideas into digital experiences that
+                  truly make an impact. */}
                 </p>
               </div>
               <div className="flex justify-center gap-4 py-5">
