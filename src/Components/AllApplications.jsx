@@ -88,7 +88,7 @@ const AllApplications = () => {
               onClick={handleShowAll}
               className="bg-purple-600 cursor-pointer mt-4 text-white px-6 py-2 rounded-lg hover:bg-purple-700 transition"
             >
-              Show All Apps
+              {/* Show All Apps */}
             </button>
           </div>
         ) : (
