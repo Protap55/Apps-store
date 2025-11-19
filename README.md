@@ -39,7 +39,7 @@ It functions like a mini **Play Store**, allowing users to explore apps, view an
 ### 💻 How to Run Locally
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/Protap55/Apps-store.git
 
 2. **Navigate into the project folder**
